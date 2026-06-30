@@ -115,57 +115,34 @@ EmergencyActivity shown with alerted contacts
 ---
 
 ## Project Structure
+
+```
 HERZION/
-
 ├── app/src/main/
-
 │   ├── java/com/example/safetyapp/
-
 │   │   ├── MainActivity.java          # Home screen + SOS button
-
 │   │   ├── SplashActivity.java        # Launch screen
-
 │   │   ├── EmergencyActivity.java     # Active emergency screen
-
 │   │   ├── ContactsActivity.java      # Emergency circle manager
-
 │   │   ├── SettingsActivity.java      # App configuration
-
 │   │   ├── MarvinDetector.java        # Voice keyword detection
-
 │   │   ├── ContactAdapter.java        # RecyclerView adapter
-
 │   │   ├── scorer/
-
 │   │   │   └── ContactScorer.java     # AI contact ranking algorithm
-
 │   │   ├── service/
-
 │   │   │   └── SosService.java        # Background SOS + audio recording
-
 │   │   ├── db/
-
 │   │   │   ├── AppDatabase.java       # Room database
-
 │   │   │   ├── ContactDao.java        # DB queries
-
 │   │   │   └── ContactEntity.java     # Contact table schema
-
 │   │   ├── model/
-
 │   │   │   └── Contact.java           # Contact model
-
 │   │   └── utils/
-
 │   │       ├── LocationHelper.java    # GPS utilities
-
 │   │       └── PermissionHelper.java  # Runtime permissions
-
 │   └── assets/
-
 │       └── marvin.tflite              # On-device AI model
-
----
+```
 
 ## Getting Started
 
