@@ -61,45 +61,28 @@ Manage your personal emergency contacts with name, phone, and priority. View the
 ---
 
 ## How It Works
+
+```
 User says "Marvin"
-
-↓
-
+        ↓
 MarvinDetector (SpeechRecognizer) detects keyword
-
-↓
-
+        ↓
 Confirm dialog shown
-
-↓
-
+        ↓
 User confirms (or auto-triggers)
-
-↓
-
+        ↓
 SosService starts (Foreground)
-
-↓
-
+        ↓
 ┌─────────────────────────────────┐
-
 │  Get GPS location               │
-
 │  Score & rank contacts (AI)     │
-
 │  Send SMS to top 4 + 1091       │
-
 │  Call primary guardian          │
-
 │  Record 60s audio evidence      │
-
 └─────────────────────────────────┘
-
-↓
-
+        ↓
 EmergencyActivity shown with alerted contacts
-
----
+```
 
 ## Permissions Required
 
