@@ -205,7 +205,3 @@ Allow all permissions when prompted — they are all required for the app to fun
 India Women's Helpline: **1091** (always included in every SOS alert)
 
 ---
-
-## Built With ❤️ for Safety
-
-> HERZION — Because safety should be a whisper away.
