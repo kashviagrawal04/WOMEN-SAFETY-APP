@@ -1,4 +1,4 @@
-# HERZION — Marvin Safety App
+# Women Safety App
 
 > **"Whisper. Safe."** — Your silent guardian for personal safety and peace of mind.
 
