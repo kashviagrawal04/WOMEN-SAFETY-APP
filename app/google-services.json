@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571980789026",
+    "project_id": "marvin-d6d82",
+    "storage_bucket": "marvin-d6d82.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571980789026:android:014397730c74d77a3c217b",
+        "android_client_info": {
+          "package_name": "com.example.safetyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbO7CYiq-WXaKlLMlbTMk8t4dk4aRDH2Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

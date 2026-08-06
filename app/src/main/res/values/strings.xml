@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Marvin</string>
+    <string name="sos">SOS</string>
+    <string name="guardian_ai">GUARDIAN AI</string>
+    <string name="listening">Listening for\n"Marvin"</string>
+    <string name="status_active">STATUS: ACTIVE</string>
+    <string name="nav_guardian">GUARDIAN</string>
+    <string name="nav_contacts">CONTACTS</string>
+    <string name="nav_settings">SETTINGS</string>
+    <string name="emergency_active">● EMERGENCY ACTIVE</string>
+    <string name="alert_sent">Alert sent to</string>
+    <string name="closest_contacts">5 closest contacts</string>
+    <string name="calling_helpline">📞  Calling helpline 1091</string>
+    <string name="cancel_emergency">Cancel Emergency</string>
+    <string name="cancel_note">Canceling will immediately notify your guardian network that the situation is under control.</string>
+    <string name="configuration">Configuration</string>
+    <string name="security_protocol">● Security Protocol v4.2</string>
+    <string name="trigger_actions">TRIGGER ACTIONS</string>
+    <string name="call_trusted">Call trusted person</string>
+    <string name="call_trusted_sub">Direct dial to primary guardian</string>
+    <string name="call_helpline">Call women helpline</string>
+    <string name="call_helpline_sub">Immediate emergency services link</string>
+    <string name="primary_guardian_number">PRIMARY GUARDIAN NUMBER</string>
+    <string name="mobile_identifier">MOBILE IDENTIFIER</string>
+    <string name="phone_hint">+91 00000 00000</string>
+    <string name="emergency_circle">EMERGENCY CIRCLE</string>
+    <string name="add_new">+ ADD NEW</string>
+    <string name="sms_note">SMS will be sent to 5 closest contacts automatically with live coordinates if an alert is triggered.</string>
+    <string name="save_settings">Update Guard Protocols</string>
+    <string name="live_tracking">LIVE TRACKING</string>
+    <string name="live_tracking_sub">GPS Broadcasting Active</string>
+    <string name="live_tracking_detail">Precise coordinates shared</string>
+    <string name="audio_record">AUDIO RECORD</string>
+    <string name="audio_record_sub">Secure Cloud Upload</string>
+    <string name="audio_record_detail">Capturing ambient evidence</string>
+</resources>
